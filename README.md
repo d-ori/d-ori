@@ -1,4 +1,32 @@
-## Hi there 👋
+## Hello I'm D-ori 👀
+
+
+**Framework & Library**
+
+- React.js / Next.js, Vue.js
+
+**Language & Markup**
+
+- HTML/CSS/JavaScript
+- TypeScript
+
+**State Management & Data Fetching**
+
+- Zustand, Tanstack Query, Recoil, Pinia
+- Axios, Next.js fetch
+
+**Styling & UI**
+
+- CSS Module, Sass(SCSS), Tailwind CSS, styled-components
+- MUI, shadcn/ui, bootstrap, Ant Design
+
+**Collaboration / Tools**
+
+- Figma, Ps, Ai
+- Notion, Jira, Confluence, Slack
+- Git, Github, Github Project
+- Netlify, Vercel
+- Supabase
 
 <!--
 **d-ori/d-ori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
