@@ -33,9 +33,6 @@
 - Netlify, Vercel
 - Supabase
 
-[![D-ori's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-ori)](https://github.com/d-ori/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-ori)](https://github.com/d-ori/github-readme-stats)
 
 <!--
 **d-ori/d-ori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
